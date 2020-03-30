@@ -141,7 +141,6 @@ glue_col("{red {SOS}}",
 
 
 
-usethis::edit_r_environ(
 )
 
 
